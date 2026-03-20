@@ -1,1 +1,0 @@
-# moonmath-manual-exercises
